@@ -1,0 +1,16 @@
+email:
+  password: HASLO_DO_KONTA_EMAIL
+  port: '587'
+  smtp_host: smtp.gmail.com
+  to:
+  - Rodzic_1 <rodzic1@gmail.com>
+  - Rodzic_2 <rodzic2@gmail.com>
+  username: USER_GMAIL@gmail.com
+students:
+  DzieckoA:
+    login: LIBRUS_LOGIN1
+    password: LIBRUS_PASSWORD1
+  DzieckoA:
+    login: LIBRUS_LOGIN1
+    password: LIBRUS_PASSWORD1
+chromedriver_path: /home/librux/chromedriver
