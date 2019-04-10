@@ -10,7 +10,7 @@ students:
   DzieckoA:
     login: LIBRUS_LOGIN1
     password: LIBRUS_PASSWORD1
-  DzieckoA:
-    login: LIBRUS_LOGIN1
-    password: LIBRUS_PASSWORD1
+  DzieckoB:
+    login: LIBRUS_LOGIN2
+    password: LIBRUS_PASSWORD2
 chromedriver_path: /home/librux/chromedriver
