@@ -1,0 +1,5 @@
+selenium
+pathlib
+smtplib
+yaml
+bs4
